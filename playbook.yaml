@@ -1,3 +1,2 @@
 name: "This is test playbook"
-hosts: localhost
-connection: local
+hosts: all
